@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-Hey! I'm Adinadh Somepalli, an enthusiastic software engineer with around 2 years of experience in crafting robust and scalable web applications. My passion lies in leveraging cutting-edge technologies to solve complex problems and deliver innovative solutions.
+Hey! I'm Adinadh Somepalli, an enthusiastic software engineer with over 3 years of experience in crafting robust and scalable web applications. My passion lies in leveraging cutting-edge technologies to solve complex problems and deliver innovative solutions.
 
 - 🌟 Proficient in Java, Spring, SQL, and microservices architecture.
 - 💡 Experienced in developing clean, testable, and scalable systems using Agile methodologies.
