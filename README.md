@@ -4,10 +4,9 @@
 
 Hey! I'm Adinadh Somepalli, an enthusiastic software engineer with over 3 years of experience in crafting robust and scalable web applications. My passion lies in leveraging cutting-edge technologies to solve complex problems and deliver innovative solutions.
 
-- 🌟 Proficient in Java, Spring, SQL, and microservices architecture.
+- 🌟 Proficient in backend and frontend technologies like Spring Boot, Spring MVC, Spring REST, React.JS, Node.JS, Tailwind CSS, jQuery, Redux, Restful API, and MongoDB for web development.
 - 💡 Experienced in developing clean, testable, and scalable systems using Agile methodologies.
-- 🚀 Skilled in cloud environments (AWS), Docker, and Kubernetes.
-- 🎓 Graduate Research Assistant at the University of Louisiana at Lafayette, and previously worked at Cognizant Technical Services in Hyderabad, India.
+- 🚀 Translating complex business requirements into user-centric and functional solutions. Implementing well-structured and efficient RESTful APIs using appropriate HTTP methods and status codes to expose data and functionality to a variety of clients.
 
 ## Experience 💼
 
