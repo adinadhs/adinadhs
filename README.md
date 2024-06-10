@@ -11,18 +11,31 @@ Hey! I'm Adinadh Somepalli, an enthusiastic software engineer with around 2 year
 
 ## Experience 💼
 
-### University of Louisiana at Lafayette
-- 🛠️ Developed and maintained software solutions following Agile (Scrum) Methodology.
-- 🌐 Designed and implemented clean, testable, and scalable systems using Java, Spring Boot, and Hibernate.
-- 🔍 Conducted troubleshooting and debugging activities to ensure optimal performance and reliability.
-- ⚙️ Utilized AWS services such as Lambda and S3 for data processing and storage.
-- 📝 Crafted technical documentation and developed Jenkins build jobs for CI/CD.
+Capital One Financial, CA | Software Engineer                                                 	                                                                  
 
-### Cognizant Technical Services
-- 🔄 Demonstrated proficiency in both frontend and backend development using REACT, HTML, and Spring Boot.
-- 📡 Developed over 20 REST APIs and maintained five distinct Microservices.
-- 🚀 Successfully migrated a gateway service from Spring to Spring Boot, enhancing system performance.
-- 📚 Committed to ongoing learning to implement secure, stable code and systems.
+●	Utilized the React.JS framework to create a single-page application (SPA) that can bind data to specific views and synchronize data with the server.
+●	Executed and maintained monitoring and alerting of production and corporate servers such as EC2 and storage such as S3 buckets using AWS Cloud Watch.
+●	Improved application efficiency by Spring Boot's optimization techniques, such as Spring Data JPA and caching mechanisms.
+●	Applied data binding and validation functionalities within Spring MVC controllers, leading to a 20% decrease in data integrity errors during user input processing.
+●	Used Spring Security, JWT and OAuth2 to establish robust authentication and authorization frameworks for applications.
+●	Established a GraphQL API to efficiently query data from diverse sources, enabling real-time visualization of key metrics through integrated Grafana dashboards increasing data retrieval efficiency by 30%.
+
+University of Louisiana at Lafayette | Graduate Research Assistant				             
+
+•	Utilized React concepts like hooks and functional programming to construct reusable and maintainable components, reducing development time. 
+•	Designed and developed the End Points (Controllers), Business Layer, and DAO Layer using the Hibernate/JDBC template.
+
+Zensar Technologies, India | Software Engineer                                                                                                                
+
+●	Utilized React hooks and functional programming to build reusable and maintainable components, reducing development time. 
+●	Developed the End Points (Controllers), Business Layer, and DAO Layer using the Hibernate/JDBC template, using Spring IOC (Dependency Injection).
+●	Led the migration from production MySQL (AWS RDS) to Amazon Redshift for querying analytical workload which reduced API latency by over 70% and 30% decrease in database resource contention.
+●	Managed Postman to design and execute API requests, facilitating thorough testing of the application's backend.
+●	Used SoapUI to diagnose and troubleshoot REST API and SOAP integration problems, working closely with backend developers to ensure seamless API functionality.
+●	Developed Spring Boot microservices using RESTful APIs, achieving a 20% improvement in application response time.
+●	Performed CRUD operations like Updating, Inserting, and Deleting data in MongoDB and SQL Server and handling database access and data transmission based on RESTful web service.
+●	Integrated Spring Cloud Stream and Spring Cloud Task for asynchronous messaging and task execution, enabling loosely coupled microservices communication.
+
 
 ## Technical Skills 🛠️
 
